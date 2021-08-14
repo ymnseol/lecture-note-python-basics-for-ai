@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.11",
+    "heartbeatAt": "2021-08-08T22:45:19.170884",
+    "startedAt": "2021-08-08T22:45:17.492958",
+    "docker": null,
+    "gpu": "GeForce RTX 2070 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Owner\\AppData\\Roaming\\jupyter\\runtime\\kernel-1a79bdbe-72b3-4a41-a561-ccc44cab3a0a.json"
+    ],
+    "state": "running",
+    "program": "wandb.ipynb",
+    "root": "E:/workspace/lecture-note-python-basics-for-ai",
+    "git": {
+        "remote": "https://github.com/BoostcampAITech/lecture-note-python-basics-for-ai",
+        "commit": "29a5eb0fee2fc386a8eb2c6c057430d023f02445"
+    },
+    "email": "ljhljh0125@gmail.com",
+    "host": "DESKTOP-JCNC266",
+    "username": "Owner",
+    "executable": "C:\\Users\\Owner\\Anaconda3\\envs\\torch\\python.exe"
+}
